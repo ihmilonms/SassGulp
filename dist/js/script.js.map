@@ -1,0 +1,1 @@
+{"version":3,"sources":["lib.js","main.js"],"names":["console","log"],"mappings":"AAAAA,QAAAC,IAAA,cCAAD,QAAAC,IAAA","file":"script.js","sourcesContent":["console.log(\"Hello Gulp\");\r\n","console.log(\"Hello Milon\");\r\n"]}

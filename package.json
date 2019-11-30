@@ -1,0 +1,25 @@
+{
+  "name": "sassproject",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Milon Hamza",
+  "license": "MIT",
+  "dependencies": {
+    "gulp-cli": "^2.2.0",
+    "node-sass": "^4.13.0"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.26.7",
+    "del": "^5.1.0",
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^7.0.1",
+    "gulp-clean-css": "^4.2.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-imagemin": "^6.2.0",
+    "gulp-rename": "^1.4.0",
+    "gulp-sass": "^4.0.2",
+    "gulp-sourcemaps": "^2.6.5",
+    "gulp-uglify": "^3.0.2",
+    "gulp-uglifycss": "^1.1.0"
+  }
+}
